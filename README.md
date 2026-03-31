@@ -1,6 +1,7 @@
 # UnrealVis
 
-<img width="2556" height="1428" alt="teaser" src="https://github.com/user-attachments/assets/8cb835b6-3d76-4566-bb4a-f4b7f38b8d31" />
+<img width="2556" height="1428" alt="teaser_n" src="https://github.com/user-attachments/assets/30430899-26c8-46e6-863c-f82faeb74f57" />
+
 
 The repository for UnrealVis, a diagnostic laboratory and optimization testbed for simulations regarding large 3D datasets, made from scratch in Unreal Engine.
 

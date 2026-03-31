@@ -17,3 +17,7 @@ Explore the dataset with WASD and your mouse! Press P to start sampling performa
 # Analying performance data
 
 Analyze performance data via the "Compare Charts" or "Analyze Performance". You can also download performance data as JSON in the last view.
+
+# Saving performance data
+
+In the Analyze Performance view, you can download the JSON files of your simulations to analyze it. You can find simulation data in UnrealVis/Export

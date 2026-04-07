@@ -1,9 +1,6 @@
 # UnrealVis
 
-<video width="640" height="360" controls>
-<source src="UnrealVisDemo.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+
 
 <img width="2556" height="1428" alt="teaser_n" src="https://github.com/user-attachments/assets/30430899-26c8-46e6-863c-f82faeb74f57" />
 
